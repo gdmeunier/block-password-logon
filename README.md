@@ -10,7 +10,7 @@ Windows doesn't only have password available for logon. It's also possible to us
 
 In such cases you can potentially login to your Windows user accoutn using either of these:
 - Fingerprint (builtin)
-- Smartcard (EIDAuthenticate)
+- Smartcard (builtin/EIDAuthenticate)
 - Face (Rohos Face Logon)
 - Time-based OTP (Rohos Logon Key)
 - SMS OTP (MultiOTP/Rohos Logon Key)
